@@ -1,15 +1,18 @@
 # slam-paper-reading
 
 2020-2-27:
+- Event-based, Direct Camera Tracking from a Photometric 3D Map using Nonlinear Optimization
+   - info : Samuel Bryner, icra2019 
+   - share with caicai
 
 - GhostNet: More Features from Cheap Operations
-info: Kai Han ,huawei noah lab,2020 CVPR, Surpassing MobileNetV3
-link: [pdf](https://arxiv.org/pdf/1911.11907.pdf), [github pythorch](https://github.com/iamhankai/ghostnet.pytorch), [github tensorflow](https://github.com/huawei-noah/ghostnet)
+    - info: Kai Han ,huawei noah lab,2020 CVPR, Surpassing MobileNetV3
+    - link: [pdf](https://arxiv.org/pdf/1911.11907.pdf), [github pythorch](https://github.com/iamhankai/ghostnet.pytorch), [github tensorflow](https://github.com/huawei-noah/ghostnet)
 
 2020-2-22:
 
-Semantic Mapping for View-Invariant Relocalization
-- info: 基于Faster-RCNN估计物体3dboundingbox+ORB重定位
+- Semantic Mapping for View-Invariant Relocalization
+    - info: 基于Faster-RCNN估计物体3dboundingbox+ORB重定位
 
 2020-2-21:
 
