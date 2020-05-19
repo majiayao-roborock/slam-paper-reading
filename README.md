@@ -1,5 +1,13 @@
 # slam-paper-reading
 
+2020-5-19:
+- Vision-Aided Localization For Ground Robots
+   - info : Mingming Zhang, iros2019
+   - VINS-mono + 3d manifold ground surface parametric representation + odometer & IMU term in pose prediction
+- VINS on Wheels
+   - info : Kejian J. Wu, iros2017
+   - proves VINS degenerate in constant acc & no rotation; planar constraint, odo 3D VINS,
+   
 2020-2-27:
 - Event-based, Direct Camera Tracking from a Photometric 3D Map using Nonlinear Optimization
    - info : Samuel Bryner, icra2019 
